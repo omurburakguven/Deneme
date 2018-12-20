@@ -1,0 +1,63 @@
+C:\Users\Burak\Desktop\Deneks\AForgePractice1\AForgePractice1\bin\Debug\AForgePractice1.exe.config
+C:\Users\Burak\Desktop\Deneks\AForgePractice1\AForgePractice1\bin\Debug\AForgePractice1.exe
+C:\Users\Burak\Desktop\Deneks\AForgePractice1\AForgePractice1\bin\Debug\AForgePractice1.pdb
+C:\Users\Burak\Desktop\Deneks\AForgePractice1\AForgePractice1\bin\Debug\AForge.xml
+C:\Users\Burak\Desktop\Deneks\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\Deneks\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.Form1.resources
+C:\Users\Burak\Desktop\Deneks\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.Properties.Resources.resources
+C:\Users\Burak\Desktop\Deneks\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\Deneks\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.exe
+C:\Users\Burak\Desktop\Deneks\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.pdb
+C:\Users\Burak\Desktop\Deneks\AForgePractice1\AForgePractice1\bin\Debug\AForge.Imaging.xml
+C:\Users\Burak\Desktop\Deneks\AForgePractice1\AForgePractice1\bin\Debug\AForge.Video.xml
+C:\Users\Burak\Desktop\Deneks\AForgePractice1\AForgePractice1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForgePractice1.exe.config
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForgePractice1.exe
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForgePractice1.pdb
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.xml
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.Imaging.xml
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.Video.xml
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.Form1.resources
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.Properties.Resources.resources
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.csproj.CopyComplete
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.exe
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.pdb
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.dll
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.Imaging.dll
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.Video.dll
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.Math.dll
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.Math.xml
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.pdb
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\bin\Debug\AForgePractice1.exe.config
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\bin\Debug\AForgePractice1.exe
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\bin\Debug\AForgePractice1.pdb
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\bin\Debug\AForge.dll
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\bin\Debug\AForge.Imaging.dll
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\bin\Debug\AForge.Video.dll
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\bin\Debug\AForge.Math.dll
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\bin\Debug\AForge.xml
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\bin\Debug\AForge.Imaging.xml
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\bin\Debug\AForge.Video.xml
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\bin\Debug\AForge.Math.xml
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.Form1.resources
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.Properties.Resources.resources
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.csproj.CopyComplete
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.exe
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.Form2.resources
+C:\Users\Acer\Desktop\AForgePractice1\AForgePractice1\obj\Debug\AForgePractice1.Form3.resources

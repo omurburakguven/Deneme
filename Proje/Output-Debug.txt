@@ -1,0 +1,20 @@
+﻿'AForgePractice1.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'AForgePractice1.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForgePractice1.exe'. Symbols loaded.
+'AForgePractice1.exe' (CLR v4.0.30319: AForgePractice1.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'AForgePractice1.exe' (CLR v4.0.30319: AForgePractice1.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'AForgePractice1.exe' (CLR v4.0.30319: AForgePractice1.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'AForgePractice1.exe' (CLR v4.0.30319: AForgePractice1.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'AForgePractice1.exe' (CLR v4.0.30319: AForgePractice1.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'AForgePractice1.exe' (CLR v4.0.30319: AForgePractice1.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'AForgePractice1.exe' (CLR v4.0.30319: AForgePractice1.exe): Loaded 'C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.Video.DirectShow.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'AForgePractice1.exe' (CLR v4.0.30319: AForgePractice1.exe): Loaded 'C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.Video.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'AForgePractice1.exe' (CLR v4.0.30319: AForgePractice1.exe): Loaded 'C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.Imaging.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'AForgePractice1.exe' (CLR v4.0.30319: AForgePractice1.exe): Loaded 'C:\Users\Acer\Desktop\Görüntü işleme proje\Yeni klasör\AForgePractice1\AForgePractice1\AForgePractice1\bin\Debug\AForge.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+nesne orta altta kor:291,417
+'AForgePractice1.exe' (CLR v4.0.30319: AForgePractice1.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.resources\v4.0_4.0.0.0_tr_b77a5c561934e089\System.resources.dll'. Module was built without symbols.
+Exception thrown: 'System.InvalidOperationException' in System.dll
+An exception of type 'System.InvalidOperationException' occurred in System.dll but was not handled in user code
+Bağlantı noktası kapalı.
+
+'AForgePractice1.exe' (CLR v4.0.30319: AForgePractice1.exe): Loaded 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PrivateAssemblies\Runtime\Microsoft.VisualStudio.Debugger.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The program '[12436] AForgePractice1.exe' has exited with code -1 (0xffffffff).
