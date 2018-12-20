@@ -1,2 +1,2 @@
-# Deneme
+# goruntuproje
 bu repo deneme içindir
